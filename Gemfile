@@ -1,0 +1,1 @@
+gem 'numbers_and_words', '~> 0.10.0'
